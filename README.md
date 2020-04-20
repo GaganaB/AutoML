@@ -9,3 +9,5 @@ allows implementations of multiple algorithms like gradient boosting, stacked en
 
 autoML GS generates raw Python code using Jinja templates and trains the statistical model in a subprocess using generated code by trying different hyperparameters to find the best model. It automatically infersfeature types and then uses a ETL strategy for features as determined by the hyperparameters to optimise frameworks.
 
+
+While survey papers have evaluated multiple tools on multiple datasets and data types, there has not been nearly enough work to compare and comprehend how particular models of each of these tools compare to one another. For instance, there is not enough literature to compare, say, deep learning model of one tool to another on similar data, configurations and settings. Since there are innumerable combinations that are possible and evaluation on one dataset is by no means sufficient, 
