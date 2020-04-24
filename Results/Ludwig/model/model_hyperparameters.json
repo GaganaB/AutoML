@@ -1,0 +1,2632 @@
+{
+    "combiner": {
+        "type": "concat"
+    },
+    "input_features": [
+        {
+            "name": "Id",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC1",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC2",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC3",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC4",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC5",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC6",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC7",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC8",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC9",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC10",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC11",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC12",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC13",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC14",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC15",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC16",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC17",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC18",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC19",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC20",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC21",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC22",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC23",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC24",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC25",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC26",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC27",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC28",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC28",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC29",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC30",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC31",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC32",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC33",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC34",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC35",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC36",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC37",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC38",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC39",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC40",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC41",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC42",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC43",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC44",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC45",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC46",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC47",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC48",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC49",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC50",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC51",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC52",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC53",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC54",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC55",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC56",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC57",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC58",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC59",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC60",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC61",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC62",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC63",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC64",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC65",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC66",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC67",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC68",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC69",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC70",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC71",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC72",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC73",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC74",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC75",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC76",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC77",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC78",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC79",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC80",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC81",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC82",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC83",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC84",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC85",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC86",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC87",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC88",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC89",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC90",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC91",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC92",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC93",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC94",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC95",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC96",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC97",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC98",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC99",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC100",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC101",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC102",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC103",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC104",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC105",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC106",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC107",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC108",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC109",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC110",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC111",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC112",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC113",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC114",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC115",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC116",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC117",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC118",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC119",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC120",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC121",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC122",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC123",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC124",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC125",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC126",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC127",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC128",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC129",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC130",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC131",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC132",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC133",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC134",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC135",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC136",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC137",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC138",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC139",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC140",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC141",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC142",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC143",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC144",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC145",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC146",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC147",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC148",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC149",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC150",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC151",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC152",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC153",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC154",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC155",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC156",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC157",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC158",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC159",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC160",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC161",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC162",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC163",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC164",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC165",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC166",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC167",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC168",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC169",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC170",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC171",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC172",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC173",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC174",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC175",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC176",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC177",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC178",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC179",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC180",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC181",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC182",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC183",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC184",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC185",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC186",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC187",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC188",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC189",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC190",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC191",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC192",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC193",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC194",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC195",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC196",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC197",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC198",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC199",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC200",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC201",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC202",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC203",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC204",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC205",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC206",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC207",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC208",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC209",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC210",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC211",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC212",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC213",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC214",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC215",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC216",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC217",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC218",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC219",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC220",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC221",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC222",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC223",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC224",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC225",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC226",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC227",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC228",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC229",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC230",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC231",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC232",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC233",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC234",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC235",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC236",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC237",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC238",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC239",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC240",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC241",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC242",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC243",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC244",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC245",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC246",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC247",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC248",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC249",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC250",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC251",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC252",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC253",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC254",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC255",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC256",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC257",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC258",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC259",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC260",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC261",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC262",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC263",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC264",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC265",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC266",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC267",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC268",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC269",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC270",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC271",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC272",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC273",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC274",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC275",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC276",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC277",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC278",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC279",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC280",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC281",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC282",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC283",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC284",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC285",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC286",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC287",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC288",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC289",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC290",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC291",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC292",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC293",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC294",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC295",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC296",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC297",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC298",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC299",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC300",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC301",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC302",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC303",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC304",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC305",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC306",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC307",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC308",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC309",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC310",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC311",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC312",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC313",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC314",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC315",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC316",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC317",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC318",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC319",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC320",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC321",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC322",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC323",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC324",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC325",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC326",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC327",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC328",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC329",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC330",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC331",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC332",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC333",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC334",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC335",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC336",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC337",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC338",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC339",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC340",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC341",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC342",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC343",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC344",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC345",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC346",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC347",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC348",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC349",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC350",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC351",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC352",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC353",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC354",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC355",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC356",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC357",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC358",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC359",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC360",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC361",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC362",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC363",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC364",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC365",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC366",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC367",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC368",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC369",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC370",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC371",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC372",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC373",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC374",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC375",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC376",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC377",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "FNC378",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map1",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map2",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map3",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map4",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map5",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map6",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map7",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map8",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map10",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map13",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map17",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map22",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map26",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map28",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map32",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map36",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map40",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map43",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map45",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map48",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map51",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map52",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map55",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map61",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map64",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map67",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map69",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map71",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map72",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map73",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map74",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        },
+        {
+            "name": "SBM_map75",
+            "normalization": "minimax",
+            "tied_weights": null,
+            "type": "numerical"
+        }
+    ],
+    "output_features": [
+        {
+            "activation": "relu",
+            "dependencies": [],
+            "dropout": true,
+            "epochs": 500,
+            "loss": {
+                "confidence_penalty": 0,
+                "positive_class_weight": 1,
+                "robust_lambda": 0,
+                "weight": 1
+            },
+            "name": "Class",
+            "reduce_dependencies": "sum",
+            "reduce_input": "sum",
+            "threshold": 0.5,
+            "type": "binary"
+        }
+    ],
+    "preprocessing": {
+        "audio": {
+            "audio_feature": {
+                "type": "raw"
+            },
+            "audio_file_length_limit_in_s": 7.5,
+            "in_memory": true,
+            "missing_value_strategy": "backfill",
+            "norm": null,
+            "padding_value": 0
+        },
+        "bag": {
+            "fill_value": "",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000,
+            "tokenizer": "space"
+        },
+        "binary": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const"
+        },
+        "category": {
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "date": {
+            "datetime_format": null,
+            "fill_value": "",
+            "missing_value_strategy": "fill_with_const"
+        },
+        "force_split": false,
+        "h3": {
+            "fill_value": 576495936675512319,
+            "missing_value_strategy": "fill_with_const"
+        },
+        "image": {
+            "in_memory": true,
+            "missing_value_strategy": "backfill",
+            "num_processes": 1,
+            "resize_method": "interpolate",
+            "scaling": "pixel_normalization"
+        },
+        "numerical": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        },
+        "sequence": {
+            "fill_value": "",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 20000,
+            "padding": "right",
+            "padding_symbol": "<PAD>",
+            "sequence_length_limit": 256,
+            "tokenizer": "space",
+            "unknown_symbol": "<UNK>",
+            "vocab_file": null
+        },
+        "set": {
+            "fill_value": "",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000,
+            "tokenizer": "space"
+        },
+        "split_probabilities": [
+            0.7,
+            0.1,
+            0.2
+        ],
+        "stratify": null,
+        "text": {
+            "char_most_common": 70,
+            "char_sequence_length_limit": 1024,
+            "char_tokenizer": "characters",
+            "char_vocab_file": null,
+            "fill_value": "",
+            "lowercase": true,
+            "missing_value_strategy": "fill_with_const",
+            "padding": "right",
+            "padding_symbol": "<PAD>",
+            "unknown_symbol": "<UNK>",
+            "word_most_common": 20000,
+            "word_sequence_length_limit": 256,
+            "word_tokenizer": "space_punct",
+            "word_vocab_file": null
+        },
+        "timeseries": {
+            "fill_value": "",
+            "missing_value_strategy": "fill_with_const",
+            "padding": "right",
+            "padding_value": 0,
+            "timeseries_length_limit": 256,
+            "tokenizer": "space"
+        },
+        "vector": {
+            "fill_value": "",
+            "missing_value_strategy": "fill_with_const"
+        }
+    },
+    "random_seed": 42,
+    "training": {
+        "batch_size": 128,
+        "bucketing_field": null,
+        "decay": false,
+        "decay_rate": 0.96,
+        "decay_steps": 10000,
+        "dropout_rate": 0.0,
+        "early_stop": 5,
+        "epochs": 100,
+        "eval_batch_size": 0,
+        "gradient_clipping": null,
+        "increase_batch_size_on_plateau": 0,
+        "increase_batch_size_on_plateau_max": 512,
+        "increase_batch_size_on_plateau_patience": 5,
+        "increase_batch_size_on_plateau_rate": 2,
+        "learning_rate": 0.001,
+        "learning_rate_warmup_epochs": 1,
+        "optimizer": {
+            "beta1": 0.9,
+            "beta2": 0.999,
+            "epsilon": 1e-08,
+            "type": "adam"
+        },
+        "reduce_learning_rate_on_plateau": 0,
+        "reduce_learning_rate_on_plateau_patience": 5,
+        "reduce_learning_rate_on_plateau_rate": 0.5,
+        "regularization_lambda": 0,
+        "regularizer": "l2",
+        "staircase": false,
+        "validation_field": "combined",
+        "validation_measure": "loss"
+    }
+}
