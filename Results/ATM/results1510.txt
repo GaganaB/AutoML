@@ -1,0 +1,40 @@
+
+wobai@WOBAI:~/mlsp-2014-mri$ python3 atm_code.py 
+Processing dataset /home/wobai/mlsp-2014-mri/train.csv
+ 61%|########################5               | 925/1510 [09:16<06:28,  1.51it/s] 61%|########################5               | 926/1510 [09:17<07:12,  1.35it/s]100%|#######################################| 1510/1510 [16:33<00:00,  1.28it/s]Classifier budget has run out!
+Datarun 17 has ended.
+100%|#######################################| 1510/1510 [16:33<00:00,  1.52it/s]
+Datarun 17 summary:
+	Dataset: '/home/wobai/mlsp-2014-mri/train.csv'
+	Column Name: 'class'
+	Judgment Metric: 'roc_auc'
+	Classifiers Tested: 1510
+	Elapsed Time: 0:16:33.656067
+Classifier id: 19700
+Classifier type: knn
+Params chosen: 
+	n_neighbors: 10
+	leaf_size: 19
+	weights: distance
+	algorithm: ball_tree
+	metric: manhattan
+	_scale: True
+Cross Validation Score: 0.650 +- 0.075
+Test Score: 0.988
+     test_judgment_metric cv_judgment_metric  ...  cv_judgment_metric_stdev    rank
+0            0.3202614379       0.8968253968  ...              0.0698683209     1.0
+1            0.4583333333       0.8838095238  ...              0.0953142553     2.0
+2            0.5696969697       0.8773015873  ...              0.0539369657     3.0
+3            0.5680473373       0.8666666667  ...              0.1102049215     4.0
+4            0.5887573964       0.8647619048  ...              0.0814048977     5.0
+...                   ...                ...  ...                       ...     ...
+1505         0.6531250000       0.4416666667  ...              0.1055555556  1506.0
+1506         0.6785714286       0.4368253968  ...              0.0690642199  1507.0
+1507         0.5454545455       0.4261904762  ...              0.1014073307  1508.0
+1508         0.5357142857       0.4204761905  ...              0.1353972906  1509.0
+1509         0.6625000000       0.4166666667  ...              0.0589255651  1510.0
+
+[1510 rows x 5 columns]
+
+
+
