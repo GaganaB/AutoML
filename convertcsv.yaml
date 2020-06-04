@@ -1,0 +1,1654 @@
+input_features:
+    -
+        name: Id
+        type: numerical
+    -
+        name: FNC1
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC2
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC3
+        type: numerical
+        normalization: minimax
+    - 
+        name: FNC4
+        type: numerical
+        normalization: minimax
+    - 
+        name: FNC5
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC6
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC7
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC8
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC9
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC10
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC11
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC12
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC13
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC14
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC15
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC16
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC17
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC18
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC19
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC20
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC21
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC22
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC23
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC24
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC25
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC26
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC27
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC28
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC28
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC29
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC30
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC31
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC32
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC33
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC34
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC35
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC36
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC37
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC38
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC39
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC40
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC41
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC42
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC43
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC44
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC45
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC46
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC47
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC48
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC49
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC50
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC51
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC52
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC53
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC54
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC55
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC56
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC57
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC58
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC59
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC60
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC61
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC62
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC63
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC64
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC65
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC66
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC67
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC68
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC69
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC70
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC71
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC72
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC73
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC74
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC75
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC76
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC77
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC78
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC79
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC80
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC81
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC82
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC83
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC84
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC85
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC86
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC87
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC88
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC89
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC90
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC91
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC92
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC93
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC94
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC95
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC96
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC97
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC98
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC99
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC100
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC101
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC102
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC103
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC104
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC105
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC106
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC107
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC108
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC109
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC110
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC111
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC112
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC113
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC114
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC115
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC116
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC117
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC118
+        type: numerical
+        normalization: minimax
+    -        
+        name: FNC119
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC120
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC121
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC122
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC123
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC124
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC125
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC126
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC127
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC128
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC129
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC130
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC131
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC132
+        type: numerical
+        normalization: minimax
+    -        
+        name: FNC133
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC134
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC135
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC136
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC137
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC138
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC139
+        type: numerical
+        normalization: minimax
+    -        
+        name: FNC140
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC141
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC142
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC143
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC144
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC145
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC146
+        type: numerical
+        normalization: minimax
+    -        
+        name: FNC147
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC148
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC149
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC150
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC151
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC152
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC153
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC154
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC155
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC156
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC157
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC158
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC159
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC160
+        type: numerical
+        normalization: minimax
+    -        
+        name: FNC161
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC162
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC163
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC164
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC165
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC166
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC167
+        type: numerical
+        normalization: minimax
+    -        
+        name: FNC168
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC169
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC170
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC171
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC172
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC173
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC174
+        type: numerical
+        normalization: minimax
+    -        
+        name: FNC175
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC176
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC177
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC178
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC179
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC180
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC181
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC182
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC183
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC184
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC185
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC186
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC187
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC188
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC189
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC190
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC191
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC192
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC193
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC194
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC195
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC196
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC197
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC198
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC199
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC200
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC201
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC202
+        type: numerical
+        normalization: minimax
+    -        
+        name: FNC203
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC204
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC205
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC206
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC207
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC208
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC209
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC210
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC211
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC212
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC213
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC214
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC215
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC216
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC217
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC218
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC219
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC220
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC221
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC222
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC223
+        type: numerical
+        normalization: minimax
+    -        
+        name: FNC224
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC225
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC226
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC227
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC228
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC229
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC230
+        type: numerical
+        normalization: minimax
+    -        
+        name: FNC231
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC232
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC233
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC234
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC235
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC236
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC237
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC238
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC239
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC240
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC241
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC242
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC243
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC244
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC245
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC246
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC247
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC248
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC249
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC250
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC251
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC252
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC253
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC254
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC255
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC256
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC257
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC258
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC259
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC260
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC261
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC262
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC263
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC264
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC265
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC266
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC267
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC268
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC269
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC270
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC271
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC272
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC273
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC274
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC275
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC276
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC277
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC278
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC279
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC280
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC281
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC282
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC283
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC284
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC285
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC286
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC287
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC288
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC289
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC290
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC291
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC292
+        type: numerical
+    -    
+        name: FNC293
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC294
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC295
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC296
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC297
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC298
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC299
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC300
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC301
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC302
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC303
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC304
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC305
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC306
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC307
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC308
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC309
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC310
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC311
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC312
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC313
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC314
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC315
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC316
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC317
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC318
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC319
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC320
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC321
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC322
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC323
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC324
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC325
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC326
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC327
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC328
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC329
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC330
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC331
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC332
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC333
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC334
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC335
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC336
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC337
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC338
+        type: numerical
+    -
+        name: FNC339
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC340
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC341
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC342
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC343
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC344
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC345
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC346
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC347
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC348
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC349
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC350
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC351
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC352
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC353
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC354
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC355
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC356
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC357
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC358
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC359
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC360
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC361
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC362
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC363
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC364
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC365
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC366
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC367
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC368
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC369
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC370
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC371
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC372
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC373
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC374
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC375
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC376
+        type: numerical
+        normalization: minimax
+    -    
+        name: FNC377
+        type: numerical
+        normalization: minimax
+    -
+        name: FNC378
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map1
+        type: numerical
+        normalization: minimax
+    -    
+        name: SBM_map2
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map3
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map4
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map5
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map6
+        type: numerical
+        normalization: minimax
+    -    
+        name: SBM_map7
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map8
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map10
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map13
+        type: numerical
+        normalization: minimax
+    -    
+        name: SBM_map17
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map22
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map26
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map28
+        type: numerical
+        normalization: minimax
+    -    
+        name: SBM_map32
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map36
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map40
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map43
+        type: numerical
+        normalization: minimax
+    -    
+        name: SBM_map45
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map48
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map51
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map52
+        type: numerical
+        normalization: minimax
+    -    
+        name: SBM_map55
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map61
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map64
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map67
+        type: numerical
+        normalization: minimax
+    -    
+        name: SBM_map69
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map71
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map72
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map73
+        type: numerical
+        normalization: minimax
+    -    
+        name: SBM_map74
+        type: numerical
+        normalization: minimax
+    -
+        name: SBM_map75
+        type: numerical
+        normalization: minimax
+ 
+output_features:
+    -
+        name: Class
+        type: binary
+        epochs: 500
+        activation: relu
+        dropout: True
