@@ -32,6 +32,8 @@ For autosklearn: Run the colab notebook [here](https://colab.research.google.com
 
 For TPOT: Run the colab notebook [here](https://colab.research.google.com/drive/1SapPBGJu-Woa9PE39ug1ckhWWUF0PLZ3?usp=sharing)
 
+For ludwig: Run the colab notebook [here](https://colab.research.google.com/drive/1tWnPlE1o-OYgQzU5rRCZXo6MrAjbY16N?usp=sharing)
+
 For AutoGluon:
 ```
 python3 autogluon.py
@@ -39,10 +41,6 @@ python3 autogluon.py
 For H2O:
 ```
 python3 h2o.py
-```
-For Ludwig:
-```
-python3 ludwig.py
 ```
 For mlbox:
 ```
