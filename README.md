@@ -24,7 +24,7 @@ The comparison of various AutoML frameworks and configurations is often tricky b
 
 # Download and run
 ```
-git clone https://github.com/GaganaB/AutoML/ 
+git clone https://github.com/GaganaB/AutoML.git
 ```
 For ATM: 
 ```
