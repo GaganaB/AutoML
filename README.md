@@ -28,6 +28,8 @@ git clone https://github.com/GaganaB/AutoML.git
 ```
 For ATM: 
 ```
+pip3 install atm
+
 python3 atm.py 
 ```
 For AutoGluon:
