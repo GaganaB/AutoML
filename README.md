@@ -30,6 +30,8 @@ For ATM: Run the colab notebook [here](https://colab.research.google.com/drive/1
 
 For autosklearn: Run the colab notebook [here](https://colab.research.google.com/drive/1QT0iMWX9cFC9ju799tTm9uwpz1STe3Lb?usp=sharing)
 
+For TPOT: Run the colab notebook [here](https://colab.research.google.com/drive/1SapPBGJu-Woa9PE39ug1ckhWWUF0PLZ3?usp=sharing)
+
 For AutoGluon:
 ```
 python3 autogluon.py
