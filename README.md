@@ -26,12 +26,10 @@ The comparison of various AutoML frameworks and configurations is often tricky b
 ```
 git clone https://github.com/GaganaB/AutoML.git
 ```
-For ATM: 
-```
-pip3 install atm
+For ATM:
 
-python3 atm.py 
-```
+Run the colab notebook [here](https://colab.research.google.com/drive/1DJay_uazBgZD99t5rlvybR9vEMRUdgE7?usp=sharing) 
+
 For AutoGluon:
 ```
 python3 autogluon.py
