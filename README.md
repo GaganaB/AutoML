@@ -26,9 +26,9 @@ The comparison of various AutoML frameworks and configurations is often tricky b
 ```
 git clone https://github.com/GaganaB/AutoML.git
 ```
-For ATM:
+For ATM: Run the colab notebook [here](https://colab.research.google.com/drive/1DJay_uazBgZD99t5rlvybR9vEMRUdgE7?usp=sharing) 
 
-Run the colab notebook [here](https://colab.research.google.com/drive/1DJay_uazBgZD99t5rlvybR9vEMRUdgE7?usp=sharing) 
+For autosklearn: Run the colab notebook [here](https://colab.research.google.com/drive/1QT0iMWX9cFC9ju799tTm9uwpz1STe3Lb?usp=sharing)
 
 For AutoGluon:
 ```
